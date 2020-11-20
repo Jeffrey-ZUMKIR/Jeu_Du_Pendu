@@ -127,13 +127,13 @@ void modifAffich(int nbIncorrect){
             c_pendu[3][2]='/';
             break;
         case 4:
-            c_pendu[3][4]='|';
+            c_pendu[3][4]='\\';
             break;
         case 5:
             c_pendu[4][2]='/';
             break;
         case 6:
-            c_pendu[4][4]='|';
+            c_pendu[4][4]='\\';
             break;
     }
 }
